@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project presents the design, implementation, and troubleshooting of a secure and scalable hierarchical enterprise network for a four-story banking and insurance company establishing operations in Nairobi, Kenya.
+This project presents the design, implementation, and troubleshooting of a secure and scalable hierarchical enterprise network for a four-story banking and insurance company establishing operations.
 
 The network was designed and simulated using **Cisco Packet Tracer**, following the **Cisco Three-Layer Hierarchical Network Design Model**, consisting of the Core, Distribution, and Access layers.
 
